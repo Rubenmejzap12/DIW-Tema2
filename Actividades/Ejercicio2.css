@@ -1,0 +1,17 @@
+body{
+    
+    font-family: Arial;
+    text-align: center;
+    font-style: unset;
+    font-size: 20px;
+    
+}
+.primero{
+    color: blue;
+}
+.par{
+    color: #ff0000;
+}
+.impar{
+    color: green;
+}

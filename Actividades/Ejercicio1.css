@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(156, 151, 151);
+    color: #ff8001;
+    font-family: Arial;
+    text-align: center;
+    font-style: unset;
+    
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 100%;
+}
+h3{
+    font-size: 5em;
+}
